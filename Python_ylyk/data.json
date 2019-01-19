@@ -1,0 +1,423 @@
+{
+  "message" : "success",
+  "data" : [
+    {
+      "goods" : [
+        {
+          "goods_name" : "美音发音指南",
+          "goods_remark" : "",
+          "training_period" : "NaN",
+          "training_end_time" : "1514822399",
+          "percentage" : "0.00",
+          "cost_price" : "0.00",
+          "ext_rights_time" : "867240",
+          "is_fenxiao" : "0",
+          "share_icon" : "",
+          "market_price" : "199.00",
+          "is_training" : "0",
+          "training_deadline" : "1514822399",
+          "goods_id" : "198",
+          "goods_name_short" : "美音发音指南",
+          "theme_color" : "",
+          "training_start_time" : "1514736000",
+          "shop_price" : "99.00"
+        }
+      ],
+      "album" : {
+        "id" : "126",
+        "album_intro" : {
+          "content_teacher" : [
+            {
+              "cover_url" : "",
+              "sort" : "0",
+              "is_online" : "1",
+              "id" : "37",
+              "desc" : "硅谷公司官方配音师",
+              "exp" : "",
+              "intro" : "通过自学练就一口标准美语\r\n与硅谷帕兰提尔合作，为其在线课程配音\r\n被美国人问是不是加州人",
+              "edu" : "",
+              "in_time" : "1514272707",
+              "avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+              "name" : "Jimmy"
+            }
+          ],
+          "objective" : "提供美音发音的范版，为学员提供美音发音练习指导，以掌握地道的发音。\r\n",
+          "requirement" : "在听课过程中坚持跟读，完成课后作业并与标准音频对比。",
+          "intro" : "从最基础的音标着手，讲解美音中的发音、连读、重音模式和语调，用标准流畅的发音让你的听觉焕然一新，用深入浅出的技巧让你的发音自然、地道。如果你是初学美音发音的新人，这门课可以成为练习发音的范版，避免错误发音误导和不良发音习惯的扎根；如果你是期待口语更加流畅的进阶者，这门课也可以提供发音练习的干货，让进阶之路更顺利。准备好开始练习了吗？请开始美音发音指南的学习吧。\r\n主讲人：Jimmy",
+          "recommend" : "希望提高英文发音的人群",
+          "teacher" : [
+            {
+              "cover_url" : "",
+              "sort" : "0",
+              "is_online" : "1",
+              "id" : "37",
+              "desc" : "硅谷公司官方配音师",
+              "exp" : "",
+              "intro" : "通过自学练就一口标准美语\r\n与硅谷帕兰提尔合作，为其在线课程配音\r\n被美国人问是不是加州人",
+              "edu" : "",
+              "in_time" : "1514272707",
+              "avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+              "name" : "Jimmy"
+            }
+          ]
+        },
+        "is_mydesk" : false,
+        "comment_count" : 22,
+        "cover_url" : "https:\/\/img-cdn1.ylyk.com\/album-img3_4-1524375493644-imgMogr.png",
+        "category_id" : "",
+        "is_finished" : "1",
+        "desc" : "本课程共11集内容，从九个方面用庖丁解牛式的讲解展示了美音发音技巧及练习方式。",
+        "tree_id" : "0",
+        "cover_visibility" : "1",
+        "is_permissions" : 1,
+        "learned_count" : "2",
+        "type_id" : "2",
+        "course_count" : "11",
+        "goods_id" : "198",
+        "name" : "美音发音指南",
+        "paytype_id" : "3"
+      },
+      "sort" : [
+
+      ],
+      "page_info" : {
+        "size" : "30",
+        "page" : "1"
+      },
+      "course_list" : [
+        {
+          "album_type" : "2",
+          "cover_url" : "https:\/\/img-cdn1.ylyk.com\/audio-1523801790-64k44100",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "112",
+          "like_cnt" : "916",
+          "is_learning_complete" : 1,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523801826646-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523801841203-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523801856275-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "748",
+          "course_id" : "5488",
+          "album_id" : "126",
+          "name" : "开篇"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "https:\/\/img-cdn1.ylyk.com\/audio-1523805377-64k44100",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "82",
+          "like_cnt" : "646",
+          "is_learning_complete" : 1,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523805395461-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523805416039-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523805442481-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1081",
+          "course_id" : "5489",
+          "album_id" : "126",
+          "name" : "E01 三言两语话音标"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "61",
+          "like_cnt" : "338",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523802985711-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523802998032-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523803016255-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1259",
+          "course_id" : "5491",
+          "album_id" : "126",
+          "name" : "E02 舌尖上的美音之语音连读"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "31",
+          "like_cnt" : "322",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523807598129-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523807616459-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523807633558-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1550",
+          "course_id" : "5492",
+          "album_id" : "126",
+          "name" : "E03 舌尖上的美音之语音同化"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "30",
+          "like_cnt" : "186",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523804589446-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523804600820-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523804616607-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "847",
+          "course_id" : "5493",
+          "album_id" : "126",
+          "name" : "E04 挑战你的高音"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "41",
+          "like_cnt" : "175",
+          "is_listen" : "1",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523806041838-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523806059376-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523806074961-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1705",
+          "course_id" : "5494",
+          "album_id" : "126",
+          "name" : "E05 重低音效果"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "34",
+          "like_cnt" : "169",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523806219197-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523806230855-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523806291868-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "2321",
+          "course_id" : "5495",
+          "album_id" : "126",
+          "name" : "E06 模模糊糊——语音略读"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "18",
+          "like_cnt" : "139",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523805302228-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523805314598-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523805336407-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "2230",
+          "course_id" : "5496",
+          "album_id" : "126",
+          "name" : "E07 抑扬顿挫——美音语调"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "18",
+          "like_cnt" : "95",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523807686824-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523807701272-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523807712079-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1404",
+          "course_id" : "5497",
+          "album_id" : "126",
+          "name" : "E08 到底是 t 还是 d"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "16",
+          "like_cnt" : "185",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523805747076-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523805762747-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523805777864-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1623",
+          "course_id" : "5498",
+          "album_id" : "126",
+          "name" : "E09 懒散的美国人——美音实战练习"
+        },
+        {
+          "album_type" : "2",
+          "cover_url" : "",
+          "album_name" : "美音发音指南",
+          "teacher_name" : "Jimmy",
+          "note_cnt" : "36",
+          "like_cnt" : "353",
+          "is_learning_complete" : 0,
+          "is_free_listening" : 0,
+          "teacher_avatar_url" : "https:\/\/img-cdn1.ylyk.com\/teacher-img1_1-1514272524129-imgMogr.jpg",
+          "ext_cover_url" : [
+            {
+              "type" : "16_9",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img16_9-1523805628297-imgMogr.jpg"
+            },
+            {
+              "type" : "67_30",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img67_30-1523805643355-imgMogr.jpg"
+            },
+            {
+              "type" : "1_1",
+              "url" : "https:\/\/img-cdn1.ylyk.com\/course-img1_1-1523805670580-imgMogr.jpg"
+            }
+          ],
+          "online_time" : "1524430800",
+          "duration" : "1142",
+          "course_id" : "5499",
+          "album_id" : "126",
+          "name" : "美音指南特别福利"
+        }
+      ]
+    }
+  ],
+  "code" : 200
+}
