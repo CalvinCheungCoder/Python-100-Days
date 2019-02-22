@@ -9,7 +9,7 @@ import re
 
 connection = pymysql.connect(host = 'localhost',
                              user = 'root',
-                             password = '123456',
+                             password = '123',
                              database = 'ylyk',
                              charset = 'utf8')
 
@@ -35,12 +35,23 @@ for row in result_set:
             name = course['name']
             cover_url = course['cover_url']
             teacher_name = course['teacher_name']
-            value = (album_id,album_name,name,course_id,teacher_name,cover_url)
-            sql = "INSERT INTO ylyk_sourse (album_id, album_name, name, course_id, teacher_name, cover_url) values(%s, '%s', '%s', %s, '%s', '%s')" % value
+
+            seleSql = "SELECT *FROM ylyk_sourse WHERE course_id = %s" % course_id
             try:
-                cursor.execute(sql)
-                connection.commit()
-                print('插入成功\n')
+                cursor.execute(seleSql)
+                results = cursor.fetchall()
+                if len(results) > 0:
+                    print(len(results))
+                else:
+                    value = (album_id,album_name,name,course_id,teacher_name,cover_url)
+                    sql = "INSERT INTO ylyk_sourse (album_id, album_name, name, course_id, teacher_name, cover_url) values(%s, '%s', '%s', %s, '%s', '%s')" % value
+                    try:
+                        cursor.execute(sql)
+                        connection.commit()
+                        print(' %s 插入成功\n',name)
+                    except:
+                        connection.rollback()
+                        print('插入错误\n')
             except:
                 connection.rollback()
-                print('插入错误\n')
+                print('查询错误')

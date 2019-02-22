@@ -7,7 +7,7 @@ import re
 
 connection = pymysql.connect(host = 'localhost',
                              user = 'root',
-                             password = '123456',
+                             password = '123',
                              database = 'ylyk',
                              charset = 'utf8')
 
@@ -44,18 +44,18 @@ def createPDF(jsonstr):
             paragraphcontent = '<p style="font-family:Tahoma;color:rgb(30, 30, 30);line-height:2.0">' + paragraphcontent + '</p>' + '<br>'
         paragraphstr += paragraphcontent;
     # 生成 PDF 文件
-    path = '123' + album_name
+    path = '/Users/zhangdinghao/Downloads/ylyk_note/' + album_name
     filepath = path + '/' + name + '.pdf'
     folder = os.path.exists(filepath)
     if not folder:
         # print('{0}\n\n'.format(jsonstr))
-        # print(paragraphstr)
         foldertwo = os.path.exists(path)
         if not foldertwo:
             os.mkdir(path)
 
         filepathtwo = path + '/' + name
         pdfkit.from_string(paragraphstr, '{0}.pdf'.format(filepathtwo))
+        print(filepathtwo)
 
 # 查询课程列表并获取课程详情
 sql = 'select *from ylyk_sourse'

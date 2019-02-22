@@ -7,7 +7,7 @@ import re
 
 connection = pymysql.connect(host = 'localhost',
                              user = 'root',
-                             password = '123456',
+                             password = '123',
                              database = 'ylyk',
                              charset = 'utf8')
 
@@ -16,7 +16,7 @@ context = ssl._create_unverified_context()
 # 音频下载
 def downloadaudio(audioname, pathname, audiourl):
     audioname = audioname.replace('/','or')
-    path = '123456' + pathname
+    path = '/Users/zhangdinghao/Downloads/ylyk/' + pathname
     filename = path + '/' + audioname
     folder = os.path.exists(filename)
     if not folder:

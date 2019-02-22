@@ -1,4 +1,4 @@
-# 根据课程分类拉取分类下的数据并存储到数据库
+# 根据课程 ID 拉取该课程下的列表数据并存储到数据库（已储存的跳过）
 import urllib.request
 import json
 import ssl
@@ -9,7 +9,7 @@ import re
 
 connection = pymysql.connect(host = 'localhost',
                              user = 'root',
-                             password = '123456',
+                             password = '123',
                              database = 'ylyk',
                              charset = 'utf8')
 
@@ -39,13 +39,26 @@ with open('ylyk.json','r') as f:
                     cover_url = listdata['cover_url']
                     goods_id = listdata['goods_id']
                     paytype_id = listdata['paytype_id']
-                    value = (id,name,desc,cover_url,goods_id,paytype_id)
-                    sql = "INSERT INTO ylyk_sourselist (id, name, des, coverurl, goods_id, paytype_id) values(%s, '%s', '%s', '%s', %s, %s)" % value
+
+                    seleSql = "SELECT *FROM ylyk_sourselist WHERE id = %s" % id
                     try:
-                        cursor.execute(sql)
-                        connection.commit()
-                        print('插入成功\n')
+                        cursor.execute(seleSql)
+                        results = cursor.fetchall()
+                        if len(results) > 0:
+                            print(len(results))
+                            print('该课程已存在')
+                        else:
+                            value = (id,name,desc,cover_url,goods_id,paytype_id)
+                            sql = "INSERT INTO ylyk_sourselist (id, name, des, coverurl, goods_id, paytype_id) values(%s, '%s', '%s', '%s', %s, %s)" % value
+                            try:
+                                cursor.execute(sql)
+                                connection.commit()
+                                print('插入成功\n')
+                            except:
+                                connection.rollback()
+                                print('插入错误\n')
+                                break
                     except:
                         connection.rollback()
-                        print('插入错误\n')
+                        print('查询错误')
                         break
