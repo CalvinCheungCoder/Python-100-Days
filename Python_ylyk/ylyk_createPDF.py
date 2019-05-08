@@ -7,7 +7,7 @@ import re
 
 connection = pymysql.connect(host = 'localhost',
                              user = 'root',
-                             password = '123',
+                             password = 'zhang051109',
                              database = 'ylyk',
                              charset = 'utf8')
 

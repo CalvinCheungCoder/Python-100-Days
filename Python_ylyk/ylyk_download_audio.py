@@ -7,7 +7,7 @@ import re
 
 connection = pymysql.connect(host = 'localhost',
                              user = 'root',
-                             password = '123',
+                             password = 'zhang051109',
                              database = 'ylyk',
                              charset = 'utf8')
 
@@ -20,7 +20,7 @@ def downloadaudio(audioname, pathname, audiourl):
     filename = path + '/' + audioname
     folder = os.path.exists(filename)
     if not folder:
-        print('\n音频名称：{0} \n - 音频链接：{1}\n 课程名称：{2}'.format(audioname,audiourl,pathname))
+        print(' \n音频名称：{0} \n 音频链接：{1}\n 课程名称：{2}'.format(audioname,audiourl,pathname))
         req = urllib.request.Request(audiourl)
         with urllib.request.urlopen(req, context=context) as response:
             audiodata = response.read()
