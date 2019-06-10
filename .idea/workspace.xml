@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54624bec-0835-4cb9-ae47-d578d4b47ac1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day01/helloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day01/zenOfPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day01-15/01.初识 Python.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +16,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python$ylyk_sourse2.coverage" NAME="ylyk_sourse2 Coverage Results" MODIFIED="1552008968294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$peppa_pig.coverage" NAME="peppa_pig Coverage Results" MODIFIED="1560153743787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
     <SUITE FILE_PATH="coverage/Python$openlanguage.coverage" NAME="openlanguage Coverage Results" MODIFIED="1552469354826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
     <SUITE FILE_PATH="coverage/Python$ylyk_createPDF.coverage" NAME="ylyk_createPDF Coverage Results" MODIFIED="1552013103422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
     <SUITE FILE_PATH="coverage/Python_100_Days$Day01__1_.coverage" NAME="Day01 (1) Coverage Results" MODIFIED="1560150818301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
@@ -42,7 +43,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zenOfPython.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zenOfPython.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day01-15/code/Day01/zenOfPython.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -51,9 +52,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01.初识 Python.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/01.初识 Python.md">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="peppa_pig.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="642">
+              <caret line="198" column="10" lean-forward="true" selection-start-line="198" selection-start-column="10" selection-end-line="198" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="helloWorld.py" pinned="false" current-in-tab="false">
@@ -98,6 +103,7 @@
         <option value="$PROJECT_DIR$/Day01-15/code/Day01/helloWorld.py" />
         <option value="$PROJECT_DIR$/Day01-15/code/Day01/zenOfPython.py" />
         <option value="$PROJECT_DIR$/Day01-15/01-初识 Python.md" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py" />
       </list>
     </option>
   </component>
@@ -179,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zenOfPython">
+  <component name="RunManager" selected="Python.peppa_pig">
     <configuration name="Day01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,7 +243,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="openlanguage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="peppa_pig" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -245,12 +251,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_ylyk" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_ylyk/openlanguage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,19 +282,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.openlanguage" />
       <item itemvalue="Python.Day01" />
       <item itemvalue="Python.helloWorld" />
       <item itemvalue="Python.Day01 (1)" />
       <item itemvalue="Python.zenOfPython" />
+      <item itemvalue="Python.peppa_pig" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.peppa_pig" />
         <item itemvalue="Python.zenOfPython" />
         <item itemvalue="Python.helloWorld" />
         <item itemvalue="Python.Day01 (1)" />
         <item itemvalue="Python.Day01" />
-        <item itemvalue="Python.openlanguage" />
       </list>
     </recent_temporary>
   </component>
@@ -307,11 +313,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.548718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31410256" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
@@ -349,7 +356,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day01~15/01~初识 Python.md" />
     <entry file="file://$PROJECT_DIR$/PythonOne/11.8.py" />
     <entry file="file://$PROJECT_DIR$/PythonOne/18.2.4-tcp-client.py" />
     <entry file="file://$PROJECT_DIR$/PythonOne/13.1_math.py" />
@@ -417,6 +423,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="198" column="10" lean-forward="true" selection-start-line="198" selection-start-column="10" selection-end-line="198" selection-end-column="10" />
         </state>
       </provider>
     </entry>

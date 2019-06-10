@@ -3,7 +3,7 @@
 
 ### Day01~15 - [Python 语言基础](./Day01-15)
 
-#### Day01 - [初识 Python](./Day01-15/01.初识 Python.md)
+#### Day01 - [初识 Python](./Day01-15/01.初识Python.md)
 * Python 简介 - Python 的历史 / Python 的优缺点 / Python 的应用领域
 * 搭建编程环境 - macOS 环境
 * 从终端运行 Python 程序 - DOS 命令 / Hello, world / print 函数 / 运行程序
