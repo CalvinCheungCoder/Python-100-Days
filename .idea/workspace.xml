@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54624bec-0835-4cb9-ae47-d578d4b47ac1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/while1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/while2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/while3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/chicken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/craps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/table.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/02.语言元素.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day01-15/02.语言元素.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/03.分支结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/Day01-15/03.分支结构.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,6 +21,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_100_Days$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1560484632438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
     <SUITE FILE_PATH="coverage/Python$ylyk_createPDF.coverage" NAME="ylyk_createPDF Coverage Results" MODIFIED="1552013103422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
     <SUITE FILE_PATH="coverage/Python_100_Days$for3.coverage" NAME="for3 Coverage Results" MODIFIED="1560414942334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day04" />
     <SUITE FILE_PATH="coverage/Python_100_Days$while3.coverage" NAME="while3 Coverage Results" MODIFIED="1560415446822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day04" />
@@ -39,18 +37,25 @@
     <SUITE FILE_PATH="coverage/Python_100_Days$verify.coverage" NAME="verify Coverage Results" MODIFIED="1560320954298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day03" />
     <SUITE FILE_PATH="coverage/Python_100_Days$rolldice.coverage" NAME="rolldice Coverage Results" MODIFIED="1560324377263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day03" />
     <SUITE FILE_PATH="coverage/Python_100_Days$while2.coverage" NAME="while2 Coverage Results" MODIFIED="1560415336172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day04" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$lily.coverage" NAME="lily Coverage Results" MODIFIED="1560484326541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$perfect.coverage" NAME="perfect Coverage Results" MODIFIED="1560497016646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$table.coverage" NAME="table Coverage Results" MODIFIED="1560497332674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
     <SUITE FILE_PATH="coverage/Python_100_Days$piecewise.coverage" NAME="piecewise Coverage Results" MODIFIED="1560324123172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day03" />
     <SUITE FILE_PATH="coverage/Python_100_Days$grade.coverage" NAME="grade Coverage Results" MODIFIED="1560324451074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day03" />
     <SUITE FILE_PATH="coverage/Python_100_Days$while1.coverage" NAME="while1 Coverage Results" MODIFIED="1560414857770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day04" />
     <SUITE FILE_PATH="coverage/Python_100_Days$zenOfPython.coverage" NAME="zenOfPython Coverage Results" MODIFIED="1560152333163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
     <SUITE FILE_PATH="coverage/Python_100_Days$for1.coverage" NAME="for1 Coverage Results" MODIFIED="1560414677034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day04" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$prime.coverage" NAME="prime Coverage Results" MODIFIED="1560497169341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
     <SUITE FILE_PATH="coverage/Python$ylyk_course.coverage" NAME="ylyk_course Coverage Results" MODIFIED="1552012848847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
     <SUITE FILE_PATH="coverage/Python_100_Days$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1560324511078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day03" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$chicken.coverage" NAME="chicken Coverage Results" MODIFIED="1560482546277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1560482669330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
     <SUITE FILE_PATH="coverage/Python$ylyk_sourse2.coverage" NAME="ylyk_sourse2 Coverage Results" MODIFIED="1552008968294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
     <SUITE FILE_PATH="coverage/Python_100_Days$for5.coverage" NAME="for5 Coverage Results" MODIFIED="1560415049447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day04" />
     <SUITE FILE_PATH="coverage/Python_100_Days$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1560150947444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
     <SUITE FILE_PATH="coverage/Python$ylyk_download_audio.coverage" NAME="ylyk_download_audio Coverage Results" MODIFIED="1552012990694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python_ylyk" />
     <SUITE FILE_PATH="coverage/Python_100_Days$tax.coverage" NAME="tax Coverage Results" MODIFIED="1560324595841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day03" />
+    <SUITE FILE_PATH="coverage/Python_100_Days$craps.coverage" NAME="craps Coverage Results" MODIFIED="1560497905353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day05" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -68,20 +73,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="for1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for1.py">
+      <file leaf-file-name="chicken.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/chicken.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="150">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="for2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for2.py">
+      <file leaf-file-name="fibonacci.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/fibonacci.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="135">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lily.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/lily.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="palindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="perfect.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/perfect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#97#108#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prime.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/prime.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="craps.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/craps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -90,61 +152,7 @@
         <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="while2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="while3.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for6.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for6.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for3.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="for5.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -200,6 +208,14 @@
         <option value="$PROJECT_DIR$/Day01-15/code/Day04/for6.py" />
         <option value="$PROJECT_DIR$/Day01-15/code/Day04/while2.py" />
         <option value="$PROJECT_DIR$/Day01-15/code/Day04/while3.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/chicken.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/fibonacci.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/lily.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/perfect.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/prime.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/table.py" />
+        <option value="$PROJECT_DIR$/Day01-15/code/Day05/craps.py" />
       </list>
     </option>
   </component>
@@ -226,7 +242,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,10 +260,18 @@
               <item name="Day01-15" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-100-Days" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-100-Days" type="462c0819:PsiDirectoryNode" />
+              <item name="Day01-15" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,8 +293,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.while3">
-    <configuration name="for4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.craps">
+    <configuration name="craps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -279,18 +302,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day04/for4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day05/craps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="for5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,18 +321,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day04/for5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="for6" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="perfect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,18 +340,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day04/for6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day05/perfect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="while2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,18 +359,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day04/while2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day05/prime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="while3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="table" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -355,31 +378,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day01-15/code/Day05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day04/while3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day01-15/code/Day05/table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.for4" />
-      <item itemvalue="Python.for5" />
-      <item itemvalue="Python.for6" />
-      <item itemvalue="Python.while2" />
-      <item itemvalue="Python.while3" />
+      <item itemvalue="Python.palindrome" />
+      <item itemvalue="Python.perfect" />
+      <item itemvalue="Python.prime" />
+      <item itemvalue="Python.table" />
+      <item itemvalue="Python.craps" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.while3" />
-        <item itemvalue="Python.while2" />
-        <item itemvalue="Python.for6" />
-        <item itemvalue="Python.for5" />
-        <item itemvalue="Python.for4" />
+        <item itemvalue="Python.craps" />
+        <item itemvalue="Python.table" />
+        <item itemvalue="Python.prime" />
+        <item itemvalue="Python.perfect" />
+        <item itemvalue="Python.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -398,16 +421,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1713" y="54" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3794872" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4730769" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18194842" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18767908" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="3" weight="0.3295129" />
@@ -441,15 +463,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_createPDF.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_download_audio.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_sourse2.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_sourse3.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_sourse3.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_course.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_download_audio.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_createPDF.py" />
-    <entry file="file://$PROJECT_DIR$/Python_ylyk/ylyk_sourse2.py" />
     <entry file="file://$PROJECT_DIR$/Python_ylyk/openlanguage.py" />
     <entry file="file://$PROJECT_DIR$/PythonOne/14.2.1.py" />
     <entry file="file://$PROJECT_DIR$/PythonOne/oopPython.py" />
@@ -555,24 +568,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -586,35 +592,108 @@
     <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/for1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day04/while1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/chicken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/lily.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/perfect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#97#108#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1199943126/math.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="266" column="4" selection-start-line="266" selection-start-column="4" selection-end-line="266" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day05/craps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
