@@ -104,3 +104,9 @@
 * Python 网络编程 - 套接字的概念 / socket 模块 / socket 函数 / 创建 TCP 服务器 / 创建 TCP 客户端 / 创建 UDP 服务器 / 创建 UDP 客户端 / SocketServer 模块
 * 电子邮件 - SMTP 协议 / POP3 协议 / IMAP 协议 / smtplib 模块 / poplib 模块 / imaplib 模块
 * 短信服务 - 调用短信服务网关
+
+#### [Day15 - 图像和文档处理](./Day01-15/15.图像和办公文档处理.md)
+* 用 Pillow 处理图片 - 图片读写 / 图片合成 / 几何变换 / 色彩转换 / 滤镜效果
+* 读写 Word 文档 - 文本内容的处理 / 段落 / 页眉和页脚 / 样式的处理
+* 读写 Excel 文件 - xlrd 模块 / xlwt 模块
+* 生成 PDF 文件 - pypdf2 模块 / reportlab 模块
